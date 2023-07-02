@@ -1,0 +1,64 @@
+3493 with FD 3
+PID 3493 Daemon writing line 0 to the file.  
+PID 3493 Daemon writing line 1 to the file.  
+PID 3493 Daemon writing line 2 to the file.  
+PID 3493 Daemon writing line 3 to the file.  
+PID 3493 Daemon writing line 4 to the file.  
+PID 3493 Daemon writing line 5 to the file.  
+PID 3493 Daemon writing line 6 to the file.  
+PID 3493 Daemon writing line 7 to the file.  
+3577 with FD 3
+PID 3577 Daemon writing line 0 to the file.  
+PID 3577 Daemon writing line 1 to the file.  
+PID 3577 Daemon writing line 2 to the file.  
+PID 3577 Daemon writing line 3 to the file.  
+PID 3577 Daemon writing line 4 to the file.  
+PID 3577 Daemon writing line 5 to the file.  
+PID 3577 Daemon writing line 6 to the file.  
+PID 3577 Daemon writing line 7 to the file.  
+PID 3577 Daemon writing line 8 to the file.  
+PID 3577 Daemon writing line 9 to the file.  
+3675 with FD 3
+PID 3675 Daemon writing line 0 to the file.  
+3678 with FD 3
+PID 3678 Daemon writing line 0 to the file.  
+3681 with FD 3
+PID 3681 Daemon writing line 0 to the file.  
+PID 3675 Daemon writing line 1 to the file.  
+3689 with FD 3
+PID 3689 Daemon writing line 0 to the file.  
+PID 3678 Daemon writing line 1 to the file.  
+PID 3681 Daemon writing line 1 to the file.  
+PID 3675 Daemon writing line 2 to the file.  
+PID 3689 Daemon writing line 1 to the file.  
+PID 3678 Daemon writing line 2 to the file.  
+PID 3681 Daemon writing line 2 to the file.  
+PID 3675 Daemon writing line 3 to the file.  
+PID 3689 Daemon writing line 2 to the file.  
+PID 3678 Daemon writing line 3 to the file.  
+PID 3681 Daemon writing line 3 to the file.  
+PID 3675 Daemon writing line 4 to the file.  
+PID 3689 Daemon writing line 3 to the file.  
+PID 3678 Daemon writing line 4 to the file.  
+PID 3681 Daemon writing line 4 to the file.  
+PID 3675 Daemon writing line 5 to the file.  
+PID 3689 Daemon writing line 4 to the file.  
+PID 3678 Daemon writing line 5 to the file.  
+PID 3681 Daemon writing line 5 to the file.  
+PID 3675 Daemon writing line 6 to the file.  
+PID 3689 Daemon writing line 5 to the file.  
+PID 3678 Daemon writing line 6 to the file.  
+PID 3681 Daemon writing line 6 to the file.  
+PID 3675 Daemon writing line 7 to the file.  
+PID 3689 Daemon writing line 6 to the file.  
+PID 3678 Daemon writing line 7 to the file.  
+PID 3681 Daemon writing line 7 to the file.  
+PID 3675 Daemon writing line 8 to the file.  
+PID 3689 Daemon writing line 7 to the file.  
+PID 3678 Daemon writing line 8 to the file.  
+PID 3681 Daemon writing line 8 to the file.  
+PID 3675 Daemon writing line 9 to the file.  
+PID 3689 Daemon writing line 8 to the file.  
+PID 3678 Daemon writing line 9 to the file.  
+PID 3681 Daemon writing line 9 to the file.  
+PID 3689 Daemon writing line 9 to the file.  
